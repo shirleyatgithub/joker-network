@@ -1,5 +1,5 @@
 # joker-network
-connect hardware [optional]
+connect hardware [optional]  
 open two terminal
 
 how to run consumerudp.py  

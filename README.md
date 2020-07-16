@@ -2,10 +2,10 @@
 connect hardware [optional]
 open two terminal
 
-how to run consumerudp.py
-python consumerudp.py cnnModelName resize [arduinoPort]
-example: python consumerudp.py afnorm224v1.h5 224 [arduinoPort]
-arduinoPort optional, if no arduino board connected, no port.
+how to run consumerudp.py  
+python consumerudp.py cnnModelName resize [arduinoPort]  
+example: python consumerudp.py afnorm224v1.h5 224 [arduinoPort]  
+arduinoPort optional, if no arduino board connected, no port.  
 
 run producerudp.py
 python producerudp.py resize
